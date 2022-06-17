@@ -1,0 +1,141 @@
+C:\Users\DRUVI TENDULKAR\documents\visual studio 2010\Projects\Mini Projeect 1\Mini Projeect 1\bin\Debug\Mini Projeect 1.exe
+C:\Users\DRUVI TENDULKAR\documents\visual studio 2010\Projects\Mini Projeect 1\Mini Projeect 1\bin\Debug\Mini Projeect 1.pdb
+C:\Users\DRUVI TENDULKAR\documents\visual studio 2010\Projects\Mini Projeect 1\Mini Projeect 1\obj\x86\Debug\Mini_Projeect_1.FormHomepage.resources
+C:\Users\DRUVI TENDULKAR\documents\visual studio 2010\Projects\Mini Projeect 1\Mini Projeect 1\obj\x86\Debug\Mini_Projeect_1.Properties.Resources.resources
+C:\Users\DRUVI TENDULKAR\documents\visual studio 2010\Projects\Mini Projeect 1\Mini Projeect 1\obj\x86\Debug\Mini Project 1.csproj.GenerateResource.Cache
+C:\Users\DRUVI TENDULKAR\documents\visual studio 2010\Projects\Mini Projeect 1\Mini Projeect 1\obj\x86\Debug\Mini Projeect 1.exe
+C:\Users\DRUVI TENDULKAR\documents\visual studio 2010\Projects\Mini Projeect 1\Mini Projeect 1\obj\x86\Debug\Mini Projeect 1.pdb
+C:\Users\DRUVI TENDULKAR\documents\visual studio 2010\Projects\Mini Projeect 1\Mini Projeect 1\obj\x86\Debug\Mini_Projeect_1.FormN1NGO.resources
+C:\Users\DRUVI TENDULKAR\documents\visual studio 2010\Projects\Mini Projeect 1\Mini Projeect 1\obj\x86\Debug\Mini_Projeect_1.FormN2NGO.resources
+C:\Users\DRUVI TENDULKAR\documents\visual studio 2010\Projects\Mini Projeect 1\Mini Projeect 1\obj\x86\Debug\Mini_Projeect_1.FormN3NGO.resources
+C:\Users\DRUVI TENDULKAR\documents\visual studio 2010\Projects\Mini Projeect 1\Mini Projeect 1\obj\x86\Debug\Mini_Projeect_1.FormN4NGO.resources
+C:\Users\DRUVI TENDULKAR\documents\visual studio 2010\Projects\Mini Projeect 1\Mini Projeect 1\obj\x86\Debug\Mini_Projeect_1.FormN5NGO.resources
+C:\Users\DRUVI TENDULKAR\documents\visual studio 2010\Projects\Mini Projeect 1\Mini Projeect 1\obj\x86\Debug\Mini_Projeect_1.FormNGOs.resources
+C:\Users\DRUVI TENDULKAR\documents\visual studio 2010\Projects\Mini Projeect 1\Mini Projeect 1\obj\x86\Debug\Mini_Projeect_1.FormOnlineMedicines.resources
+C:\Users\DRUVI TENDULKAR\documents\visual studio 2010\Projects\Mini Projeect 1\Mini Projeect 1\obj\x86\Debug\Mini_Projeect_1.FormS1NGO.resources
+C:\Users\DRUVI TENDULKAR\documents\visual studio 2010\Projects\Mini Projeect 1\Mini Projeect 1\obj\x86\Debug\Mini_Projeect_1.FormS2NGO.resources
+C:\Users\DRUVI TENDULKAR\documents\visual studio 2010\Projects\Mini Projeect 1\Mini Projeect 1\obj\x86\Debug\Mini_Projeect_1.FormS3NGO.resources
+C:\Users\DRUVI TENDULKAR\documents\visual studio 2010\Projects\Mini Projeect 1\Mini Projeect 1\obj\x86\Debug\Mini_Projeect_1.FormS4NGO.resources
+C:\Users\DRUVI TENDULKAR\documents\visual studio 2010\Projects\Mini Projeect 1\Mini Projeect 1\obj\x86\Debug\Mini_Projeect_1.FormS5NGO.resources
+C:\Users\HP\Desktop\Mini Project 1\obj\x86\Debug\Mini Project 1.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\Mini Project 1\bin\Debug\Mini Project 1.exe
+C:\Users\HP\Desktop\Mini Project 1\bin\Debug\Mini Project 1.pdb
+C:\Users\HP\Desktop\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormCheckVitalSigns.resources
+C:\Users\HP\Desktop\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormHomepage.resources
+C:\Users\HP\Desktop\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormN1NGO.resources
+C:\Users\HP\Desktop\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormN2NGO.resources
+C:\Users\HP\Desktop\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormN3NGO.resources
+C:\Users\HP\Desktop\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormN4NGO.resources
+C:\Users\HP\Desktop\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormN5NGO.resources
+C:\Users\HP\Desktop\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormS1NGO.resources
+C:\Users\HP\Desktop\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormS2NGO.resources
+C:\Users\HP\Desktop\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormS3NGO.resources
+C:\Users\HP\Desktop\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormS4NGO.resources
+C:\Users\HP\Desktop\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormS5NGO.resources
+C:\Users\HP\Desktop\Mini Project 1\obj\x86\Debug\Mini_Project_1.Properties.Resources.resources
+C:\Users\HP\Desktop\Mini Project 1\obj\x86\Debug\Mini Project 1.exe
+C:\Users\HP\Desktop\Mini Project 1\obj\x86\Debug\Mini Project 1.pdb
+C:\Users\HP\Desktop\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormDayReadings.resources
+C:\Users\HP\Desktop\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormDonateMedicines.resources
+C:\Users\HP\Desktop\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormDonateToNGOs.resources
+C:\Users\HP\Desktop\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormConfirmMedicines.resources
+C:\Users\HP\Desktop\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormConfirmOxiMaskFS.resources
+C:\Users\HP\Desktop\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormConfirmOxyCylinders.resources
+C:\Users\HP\Desktop\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormDonateOxyCylinders.resources
+C:\Users\HP\Desktop\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormDonateOxiMaskFS.resources
+C:\Users\HP\Desktop\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormAdminLogin.resources
+C:\Users\HP\Desktop\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormAdminForgot.resources
+C:\Users\HP\Desktop\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormAdminHospitals.resources
+C:\Users\HP\Desktop\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormAdminNGO.resources
+C:\Users\HP\Desktop\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormAdminReset.resources
+C:\Users\HP\Desktop\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormAdminManagement.resources
+C:\Users\HP\Desktop\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormBuyEssentials.resources
+C:\Users\HP\Desktop\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormFeedback.resources
+C:\Users\HP\Desktop\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormImpInfo.resources
+C:\Users\HP\Desktop\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormInfoCovid.resources
+C:\Users\HP\Desktop\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormConfirmPlasma.resources
+C:\Users\HP\Desktop\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormDonorInfoFill.resources
+C:\Users\HP\Desktop\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormDonorInfoCheck.resources
+C:\Users\HP\Desktop\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormInfoQuarantineCentres.resources
+C:\Users\HP\Desktop\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormInfoOxygenFactories.resources
+C:\Users\HP\Desktop\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormActiveCases.resources
+C:\Users\HP\Desktop\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormDonatePlasma.resources
+C:\Users\HP\Desktop\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormAdminsOfHospitals.resources
+C:\Users\HP\Desktop\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormMailImage.resources
+C:\Users\HP\Desktop\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormDownloadECard.resources
+C:\Users\HP\Desktop\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormUploadECards.resources
+C:\Users\HP\Desktop\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormImageHealthCard.resources
+C:\Users\HP\Desktop\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormStart.resources
+C:\Users\HP\Desktop\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormDescription.resources
+C:\Users\HP\Desktop\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormInfoVaccinationCentres.resources
+C:\Users\HP\Desktop\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormUserForgot.resources
+C:\Users\HP\Desktop\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormUserLogin.resources
+C:\Users\HP\Desktop\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormUserRegister.resources
+C:\Users\HP\Desktop\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormUserReset.resources
+C:\Users\HP\Desktop\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormPrecautionaryTest.resources
+C:\Users\HP\Desktop\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormAdminRestaurants.resources
+C:\Users\HP\Desktop\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormOrderFood.resources
+C:\Users\HP\Desktop\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormMailCertificate.resources
+C:\Users\HP\Desktop\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormAdminRestCheckElig.resources
+C:\Users\HP\Desktop\wetransfer-bc64f0 (1)\Mini Project 1\obj\x86\Debug\Mini Project 1.exe
+C:\Users\HP\Desktop\wetransfer-bc64f0 (1)\Mini Project 1\obj\x86\Debug\Mini Project 1.pdb
+C:\Users\HP\Desktop\MADF Projects\Mini Project 1\obj\x86\Debug\Mini Project 1.exe
+C:\Users\HP\Desktop\MADF Projects\Mini Project 1\obj\x86\Debug\Mini Project 1.pdb
+C:\Users\HP\Desktop\MADF Projects\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormAdminRestCheckElig.resources
+C:\Users\HP\Desktop\MADF Projects\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormDescription.resources
+C:\Users\HP\Desktop\MADF Projects\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormImageHealthCard.resources
+C:\Users\HP\Desktop\MADF Projects\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormAdminsOfHospitals.resources
+C:\Users\HP\Desktop\MADF Projects\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormDonatePlasma.resources
+C:\Users\HP\Desktop\MADF Projects\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormDownloadECard.resources
+C:\Users\HP\Desktop\MADF Projects\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormInfoQuarantineCentres.resources
+C:\Users\HP\Desktop\MADF Projects\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormAdminForgot.resources
+C:\Users\HP\Desktop\MADF Projects\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormAdminHospitals.resources
+C:\Users\HP\Desktop\MADF Projects\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormAdminRestaurants.resources
+C:\Users\HP\Desktop\MADF Projects\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormAdminLogin.resources
+C:\Users\HP\Desktop\MADF Projects\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormAdminManagement.resources
+C:\Users\HP\Desktop\MADF Projects\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormAdminNGO.resources
+C:\Users\HP\Desktop\MADF Projects\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormAdminReset.resources
+C:\Users\HP\Desktop\MADF Projects\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormCheckVitalSigns.resources
+C:\Users\HP\Desktop\MADF Projects\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormConfirmPlasma.resources
+C:\Users\HP\Desktop\MADF Projects\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormDayReadings.resources
+C:\Users\HP\Desktop\MADF Projects\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormConfirmMedicines.resources
+C:\Users\HP\Desktop\MADF Projects\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormConfirmOxiMaskFS.resources
+C:\Users\HP\Desktop\MADF Projects\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormConfirmOxyCylinders.resources
+C:\Users\HP\Desktop\MADF Projects\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormDonateMedicines.resources
+C:\Users\HP\Desktop\MADF Projects\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormDonateOxiMaskFS.resources
+C:\Users\HP\Desktop\MADF Projects\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormDonateOxyCylinders.resources
+C:\Users\HP\Desktop\MADF Projects\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormDonorInfoFill.resources
+C:\Users\HP\Desktop\MADF Projects\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormFeedback.resources
+C:\Users\HP\Desktop\MADF Projects\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormDonorInfoCheck.resources
+C:\Users\HP\Desktop\MADF Projects\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormHomepage.resources
+C:\Users\HP\Desktop\MADF Projects\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormImpInfo.resources
+C:\Users\HP\Desktop\MADF Projects\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormMailCertificate.resources
+C:\Users\HP\Desktop\MADF Projects\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormMailImage.resources
+C:\Users\HP\Desktop\MADF Projects\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormN1NGO.resources
+C:\Users\HP\Desktop\MADF Projects\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormN2NGO.resources
+C:\Users\HP\Desktop\MADF Projects\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormN3NGO.resources
+C:\Users\HP\Desktop\MADF Projects\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormN4NGO.resources
+C:\Users\HP\Desktop\MADF Projects\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormN5NGO.resources
+C:\Users\HP\Desktop\MADF Projects\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormDonateToNGOs.resources
+C:\Users\HP\Desktop\MADF Projects\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormBuyEssentials.resources
+C:\Users\HP\Desktop\MADF Projects\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormOrderFood.resources
+C:\Users\HP\Desktop\MADF Projects\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormUserForgot.resources
+C:\Users\HP\Desktop\MADF Projects\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormUserLogin.resources
+C:\Users\HP\Desktop\MADF Projects\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormUserRegister.resources
+C:\Users\HP\Desktop\MADF Projects\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormUserReset.resources
+C:\Users\HP\Desktop\MADF Projects\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormS1NGO.resources
+C:\Users\HP\Desktop\MADF Projects\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormS2NGO.resources
+C:\Users\HP\Desktop\MADF Projects\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormS3NGO.resources
+C:\Users\HP\Desktop\MADF Projects\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormS4NGO.resources
+C:\Users\HP\Desktop\MADF Projects\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormS5NGO.resources
+C:\Users\HP\Desktop\MADF Projects\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormInfoOxygenFactories.resources
+C:\Users\HP\Desktop\MADF Projects\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormStart.resources
+C:\Users\HP\Desktop\MADF Projects\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormUploadECards.resources
+C:\Users\HP\Desktop\MADF Projects\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormPrecautionaryTest.resources
+C:\Users\HP\Desktop\MADF Projects\Mini Project 1\obj\x86\Debug\Mini_Project_1.Properties.Resources.resources
+C:\Users\HP\Desktop\MADF Projects\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormInfoCovid.resources
+C:\Users\HP\Desktop\MADF Projects\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormActiveCases.resources
+C:\Users\HP\Desktop\MADF Projects\Mini Project 1\obj\x86\Debug\Mini_Project_1.FormInfoVaccinationCentres.resources
+C:\Users\HP\Desktop\MADF Projects\Mini Project 1\obj\x86\Debug\Mini Project 1.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\MADF Projects\Mini Project 1\bin\Debug\Mini Project 1.exe
+C:\Users\HP\Desktop\MADF Projects\Mini Project 1\bin\Debug\Mini Project 1.pdb
