@@ -1,0 +1,566 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{C6629F1A-1982-4FFE-8182-E3210E182B75}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Mini_Project_1</RootNamespace>
+    <AssemblyName>Mini Project 1</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FormAdminRestCheckElig.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAdminRestCheckElig.Designer.cs">
+      <DependentUpon>FormAdminRestCheckElig.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDescription.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDescription.Designer.cs">
+      <DependentUpon>FormDescription.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormImageHealthCard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormImageHealthCard.designer.cs">
+      <DependentUpon>FormImageHealthCard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAdminsOfHospitals.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAdminsOfHospitals.Designer.cs">
+      <DependentUpon>FormAdminsOfHospitals.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDonatePlasma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDonatePlasma.designer.cs">
+      <DependentUpon>FormDonatePlasma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDownloadECard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDownloadECard.Designer.cs">
+      <DependentUpon>FormDownloadECard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormInfoQuarantineCentres.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormInfoQuarantineCentres.designer.cs">
+      <DependentUpon>FormInfoQuarantineCentres.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAdminForgot.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAdminForgot.Designer.cs">
+      <DependentUpon>FormAdminForgot.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAdminHospitals.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAdminHospitals.Designer.cs">
+      <DependentUpon>FormAdminHospitals.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAdminRestaurants.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAdminRestaurants.Designer.cs">
+      <DependentUpon>FormAdminRestaurants.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAdminLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAdminLogin.Designer.cs">
+      <DependentUpon>FormAdminLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAdminManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAdminManagement.Designer.cs">
+      <DependentUpon>FormAdminManagement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAdminNGO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAdminNGO.Designer.cs">
+      <DependentUpon>FormAdminNGO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAdminReset.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAdminReset.Designer.cs">
+      <DependentUpon>FormAdminReset.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormConfirmPlasma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormConfirmPlasma.Designer.cs">
+      <DependentUpon>FormConfirmPlasma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDayReadings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDayReadings.Designer.cs">
+      <DependentUpon>FormDayReadings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormConfirmMedicines.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormConfirmMedicines.Designer.cs">
+      <DependentUpon>FormConfirmMedicines.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormConfirmOxiMaskFS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormConfirmOxiMaskFS.Designer.cs">
+      <DependentUpon>FormConfirmOxiMaskFS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormConfirmOxyCylinders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormConfirmOxyCylinders.Designer.cs">
+      <DependentUpon>FormConfirmOxyCylinders.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDonateMedicines.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDonateMedicines.Designer.cs">
+      <DependentUpon>FormDonateMedicines.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDonateOxiMaskFS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDonateOxiMaskFS.Designer.cs">
+      <DependentUpon>FormDonateOxiMaskFS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDonateOxyCylinders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDonateOxyCylinders.Designer.cs">
+      <DependentUpon>FormDonateOxyCylinders.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDonorInfoFill.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDonorInfoFill.Designer.cs">
+      <DependentUpon>FormDonorInfoFill.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormFeedback.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormFeedback.Designer.cs">
+      <DependentUpon>FormFeedback.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDonorInfoCheck.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDonorInfoCheck.Designer.cs">
+      <DependentUpon>FormDonorInfoCheck.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormHomepage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormHomepage.Designer.cs">
+      <DependentUpon>FormHomepage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormImpInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormImpInfo.Designer.cs">
+      <DependentUpon>FormImpInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMailCertificate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMailCertificate.Designer.cs">
+      <DependentUpon>FormMailCertificate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMailImage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMailImage.Designer.cs">
+      <DependentUpon>FormMailImage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormN1NGO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormN1NGO.Designer.cs">
+      <DependentUpon>FormN1NGO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormN2NGO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormN2NGO.Designer.cs">
+      <DependentUpon>FormN2NGO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormN3NGO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormN3NGO.Designer.cs">
+      <DependentUpon>FormN3NGO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormN4NGO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormN4NGO.Designer.cs">
+      <DependentUpon>FormN4NGO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormN5NGO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormN5NGO.Designer.cs">
+      <DependentUpon>FormN5NGO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDonateToNGOs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDonateToNGOs.Designer.cs">
+      <DependentUpon>FormDonateToNGOs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormBuyEssentials.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBuyEssentials.designer.cs">
+      <DependentUpon>FormBuyEssentials.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormOrderFood.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormOrderFood.Designer.cs">
+      <DependentUpon>FormOrderFood.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUserForgot.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUserForgot.Designer.cs">
+      <DependentUpon>FormUserForgot.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUserLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUserLogin.Designer.cs">
+      <DependentUpon>FormUserLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUserRegister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUserRegister.Designer.cs">
+      <DependentUpon>FormUserRegister.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUserReset.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUserReset.Designer.cs">
+      <DependentUpon>FormUserReset.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormS1NGO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormS1NGO.Designer.cs">
+      <DependentUpon>FormS1NGO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormS2NGO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormS2NGO.Designer.cs">
+      <DependentUpon>FormS2NGO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormS3NGO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormS3NGO.Designer.cs">
+      <DependentUpon>FormS3NGO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormS4NGO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormS4NGO.Designer.cs">
+      <DependentUpon>FormS4NGO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormS5NGO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormS5NGO.Designer.cs">
+      <DependentUpon>FormS5NGO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCheckVitalSigns.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCheckVitalSigns.Designer.cs">
+      <DependentUpon>FormCheckVitalSigns.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormStart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormStart.Designer.cs">
+      <DependentUpon>FormStart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUploadECards.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUploadECards.Designer.cs">
+      <DependentUpon>FormUploadECards.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Global.cs" />
+    <Compile Include="FormInfoOxygenFactories.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormInfoOxygenFactories.designer.cs">
+      <DependentUpon>FormInfoOxygenFactories.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormPrecautionaryTest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPrecautionaryTest.designer.cs">
+      <DependentUpon>FormPrecautionaryTest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="FormInfoCovid.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormInfoCovid.designer.cs">
+      <DependentUpon>FormInfoCovid.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormActiveCases.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormActiveCases.designer.cs">
+      <DependentUpon>FormActiveCases.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormInfoVaccinationCentres.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormInfoVaccinationCentres.designer.cs">
+      <DependentUpon>FormInfoVaccinationCentres.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="FormAdminRestCheckElig.resx">
+      <DependentUpon>FormAdminRestCheckElig.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDescription.resx">
+      <DependentUpon>FormDescription.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormImageHealthCard.resx">
+      <DependentUpon>FormImageHealthCard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAdminsOfHospitals.resx">
+      <DependentUpon>FormAdminsOfHospitals.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDonatePlasma.resx">
+      <DependentUpon>FormDonatePlasma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDownloadECard.resx">
+      <DependentUpon>FormDownloadECard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormInfoQuarantineCentres.resx">
+      <DependentUpon>FormInfoQuarantineCentres.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAdminForgot.resx">
+      <DependentUpon>FormAdminForgot.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAdminHospitals.resx">
+      <DependentUpon>FormAdminHospitals.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAdminRestaurants.resx">
+      <DependentUpon>FormAdminRestaurants.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAdminLogin.resx">
+      <DependentUpon>FormAdminLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAdminManagement.resx">
+      <DependentUpon>FormAdminManagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAdminNGO.resx">
+      <DependentUpon>FormAdminNGO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAdminReset.resx">
+      <DependentUpon>FormAdminReset.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCheckVitalSigns.resx">
+      <DependentUpon>FormCheckVitalSigns.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormConfirmPlasma.resx">
+      <DependentUpon>FormConfirmPlasma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDayReadings.resx">
+      <DependentUpon>FormDayReadings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormConfirmMedicines.resx">
+      <DependentUpon>FormConfirmMedicines.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormConfirmOxiMaskFS.resx">
+      <DependentUpon>FormConfirmOxiMaskFS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormConfirmOxyCylinders.resx">
+      <DependentUpon>FormConfirmOxyCylinders.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDonateMedicines.resx">
+      <DependentUpon>FormDonateMedicines.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDonateOxiMaskFS.resx">
+      <DependentUpon>FormDonateOxiMaskFS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDonateOxyCylinders.resx">
+      <DependentUpon>FormDonateOxyCylinders.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDonorInfoFill.resx">
+      <DependentUpon>FormDonorInfoFill.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormFeedback.resx">
+      <DependentUpon>FormFeedback.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDonorInfoCheck.resx">
+      <DependentUpon>FormDonorInfoCheck.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormHomepage.resx">
+      <DependentUpon>FormHomepage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormImpInfo.resx">
+      <DependentUpon>FormImpInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMailCertificate.resx">
+      <DependentUpon>FormMailCertificate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMailImage.resx">
+      <DependentUpon>FormMailImage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormN1NGO.resx">
+      <DependentUpon>FormN1NGO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormN2NGO.resx">
+      <DependentUpon>FormN2NGO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormN3NGO.resx">
+      <DependentUpon>FormN3NGO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormN4NGO.resx">
+      <DependentUpon>FormN4NGO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormN5NGO.resx">
+      <DependentUpon>FormN5NGO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDonateToNGOs.resx">
+      <DependentUpon>FormDonateToNGOs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBuyEssentials.resx">
+      <DependentUpon>FormBuyEssentials.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormOrderFood.resx">
+      <DependentUpon>FormOrderFood.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUserForgot.resx">
+      <DependentUpon>FormUserForgot.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUserLogin.resx">
+      <DependentUpon>FormUserLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUserRegister.resx">
+      <DependentUpon>FormUserRegister.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUserReset.resx">
+      <DependentUpon>FormUserReset.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormS1NGO.resx">
+      <DependentUpon>FormS1NGO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormS2NGO.resx">
+      <DependentUpon>FormS2NGO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormS3NGO.resx">
+      <DependentUpon>FormS3NGO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormS4NGO.resx">
+      <DependentUpon>FormS4NGO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormS5NGO.resx">
+      <DependentUpon>FormS5NGO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormInfoOxygenFactories.resx">
+      <DependentUpon>FormInfoOxygenFactories.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormStart.resx">
+      <DependentUpon>FormStart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUploadECards.resx">
+      <DependentUpon>FormUploadECards.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPrecautionaryTest.resx">
+      <DependentUpon>FormPrecautionaryTest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="FormInfoCovid.resx">
+      <DependentUpon>FormInfoCovid.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormActiveCases.resx">
+      <DependentUpon>FormActiveCases.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormInfoVaccinationCentres.resx">
+      <DependentUpon>FormInfoVaccinationCentres.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
