@@ -1,5 +1,7 @@
 # App for the Home Quarantined People
  This is an App for the Home Quarantined people using C# Windows Application and SQL.
+ 
+Explanation Video Link: https://youtu.be/rZuMtXYrcnQ
 
 The main sections of the app are viewing active cases, precautionary covid test, checking vital signs (for covid infected patients only), donation of unused medical essentials, plasma donation, ordering food from restaurants (for covid infected patients only), buying covid essentials, some important information to help you and lastly your valuable feedback.
 
