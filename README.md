@@ -1,5 +1,5 @@
 # App for the Home Quarantined People
- This is an App for the Home Quarantined people using C# Windows Application and SQL.
+ This is an App for the Home Quarantined people using C# Windows Application.
  
 Explanation Video Link: https://youtu.be/rZuMtXYrcnQ
 
